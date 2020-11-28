@@ -6,6 +6,7 @@ Data pelanggan
 *        Nama Pelanggan, varchar(30)
 *        Jenis Kelamin, char(10)
 *        Alamat, varchar(40) 
-Screenshoot pada folder 
+Screenshoot pada folder images-jawaban
 
-Database NoSQL adalah kumpulan data yang tidak memiliki perintah
+Database NoSQL adalah kumpulan data yang tidak memiliki perintah SQL dan memiliki konsep penyimpanan data yang semistruktural, database ini juga tidak diwajibkan untuk memiliki tabel relasi.
+Contoh Database NoSQL tertera di folder images-jawaban
