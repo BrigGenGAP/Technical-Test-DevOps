@@ -17,3 +17,6 @@ Source for number 4 :
 - https://idcloudhost.com/kamus-hosting/structured-query-language/
 - https://www.termasmedia.com/lainnya/software/69-pengertian-database.html
 - http://rusmanarusli.blogspot.com/2014/12/contoh-pembuatan-database-apotek-dengan.html
+
+Source for number 5 :
+- https://medium.com/@vickyfarenza/dasar-git-sampai-contoh-penggunaan-git-bash-add-dan-commit-2c7671d01181
