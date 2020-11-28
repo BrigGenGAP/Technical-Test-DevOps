@@ -1,0 +1,1 @@
+Bagi saya, platform yang nyaman untuk digunakan adalah Github, dari sejak saya belajar pemrograman untuk *Source Code* dasar sampai rumit hampir semua saya dapatkan di Github, maka dari itu saya lebih mengandalkan Github dibanding 2 platform lainnya.
